@@ -1,4 +1,4 @@
-package cn.itcast.springboot.javaconfig;
+package cn.zhuzi.springboot.javaconfig;
 
 import javax.sql.DataSource;
 
